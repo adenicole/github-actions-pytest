@@ -1,0 +1,9 @@
+In the CI, 
+
+- The github action is triggered with a push to the default branch
+
+- The only Job running is buld and the steps includes:
+ - Python setup
+ - Dependecies installation where the makefile steps are run.
+
+I am just showing how github CI works and made it very simple.
