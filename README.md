@@ -1,4 +1,4 @@
-![Python application test with Github Actions](https://github.com/adenicole/github-actions-pytest/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/adenicole/github-actions-pytest/actions/workflows/pythonapp.yml)
+![Python application test with Github Actions](https://github.com/adenicole/github-actions-pytest/actions/workflows/pythonapp.yml/badge.svg)]
 
 .
 
